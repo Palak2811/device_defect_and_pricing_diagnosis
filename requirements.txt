@@ -1,0 +1,14 @@
+torch
+transformers
+Pillow
+xgboost
+scikit-learn
+pandas
+numpy
+streamlit
+boto3
+python-dotenv
+matplotlib
+seaborn
+joblib
+fpdf2

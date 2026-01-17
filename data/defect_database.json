@@ -1,0 +1,154 @@
+{
+  "defects": [
+    {
+      "id": "SCR001",
+      "name": "Cracked Screen",
+      "description": "cracked display with visible damage broken glass touch not responding screen shattered spider web pattern fracture",
+      "severity_score": 9,
+      "price_impact": -0.35,
+      "repair_cost": 4000,
+      "category": "screen",
+      "critical": true
+    },
+    {
+      "id": "SCR002",
+      "name": "Screen Scratch",
+      "description": "surface scratch on display minor damage to screen protective layer scratched glass light marks",
+      "severity_score": 3,
+      "price_impact": -0.08,
+      "repair_cost": 0,
+      "category": "screen",
+      "critical": false
+    },
+    {
+      "id": "BAT001",
+      "name": "Battery Drain",
+      "description": "battery draining fast rapid power loss short battery life phone dies quickly poor backup",
+      "severity_score": 6,
+      "price_impact": -0.18,
+      "repair_cost": 2500,
+      "category": "battery",
+      "critical": false
+    },
+    {
+      "id": "BAT002",
+      "name": "Battery Swelling",
+      "description": "swollen battery bulging back panel battery expansion physical deformation dangerous",
+      "severity_score": 10,
+      "price_impact": -0.50,
+      "repair_cost": 3000,
+      "category": "battery",
+      "critical": true
+    },
+    {
+      "id": "CHG001",
+      "name": "Charging Port Issue",
+      "description": "charging port not working cable loose connection problem won't charge port damaged intermittent charging",
+      "severity_score": 5,
+      "price_impact": -0.15,
+      "repair_cost": 1500,
+      "category": "charging",
+      "critical": false
+    },
+    {
+      "id": "PHY001",
+      "name": "Physical Dent",
+      "description": "dent on body physical deformation bent frame damaged casing structural damage corner dent",
+      "severity_score": 4,
+      "price_impact": -0.12,
+      "repair_cost": 2000,
+      "category": "physical",
+      "critical": false
+    },
+    {
+      "id": "PHY002",
+      "name": "Back Panel Damage",
+      "description": "back glass broken rear panel cracked back cover damaged shattered back",
+      "severity_score": 5,
+      "price_impact": -0.15,
+      "repair_cost": 2500,
+      "category": "physical",
+      "critical": false
+    },
+    {
+      "id": "WTR001",
+      "name": "Water Damage",
+      "description": "water damage liquid spill moisture corrosion wet device submerged liquid indicator triggered rust",
+      "severity_score": 10,
+      "price_impact": -0.60,
+      "repair_cost": 8000,
+      "category": "water",
+      "critical": true
+    },
+    {
+      "id": "HNG001",
+      "name": "Broken Hinge",
+      "description": "laptop hinge broken loose hinge screen wobbles connection damaged lid problem creaking hinge",
+      "severity_score": 7,
+      "price_impact": -0.22,
+      "repair_cost": 3500,
+      "category": "physical",
+      "critical": false
+    },
+    {
+      "id": "KEY001",
+      "name": "Keyboard Malfunction",
+      "description": "keyboard keys not working sticky keys multiple key presses keyboard problem typing issue key failure",
+      "severity_score": 6,
+      "price_impact": -0.18,
+      "repair_cost": 2500,
+      "category": "keyboard",
+      "critical": false
+    },
+    {
+      "id": "OVR001",
+      "name": "Overheating",
+      "description": "device overheating excessive heat thermal issue hot to touch burning smell fan noise cooling problem",
+      "severity_score": 8,
+      "price_impact": -0.25,
+      "repair_cost": 2000,
+      "category": "thermal",
+      "critical": true
+    },
+    {
+      "id": "AUD001",
+      "name": "Audio Issues",
+      "description": "no sound audio not working speaker problem crackling sound microphone issue distorted audio",
+      "severity_score": 4,
+      "price_impact": -0.10,
+      "repair_cost": 1500,
+      "category": "audio",
+      "critical": false
+    },
+    {
+      "id": "CAM001",
+      "name": "Camera Defect",
+      "description": "camera not working blurry photos focus issue lens crack camera malfunction black screen",
+      "severity_score": 5,
+      "price_impact": -0.15,
+      "repair_cost": 3000,
+      "category": "camera",
+      "critical": false
+    },
+    {
+      "id": "BTN001",
+      "name": "Button Damage",
+      "description": "power button stuck volume buttons not responding home button broken tactile issue",
+      "severity_score": 3,
+      "price_impact": -0.08,
+      "repair_cost": 1000,
+      "category": "physical",
+      "critical": false
+    },
+    {
+      "id": "DSP001",
+      "name": "Display Flickering",
+      "description": "screen flickering display issue brightness problem ghost touch dead pixels backlight bleeding",
+      "severity_score": 6,
+      "price_impact": -0.20,
+      "repair_cost": 3500,
+      "category": "screen",
+      "critical": false
+    }
+  ]
+}

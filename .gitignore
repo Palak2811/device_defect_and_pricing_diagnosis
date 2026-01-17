@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+*.pth
+.DS_Store
+venv/
+data/Laptop-damage-detection-testing.v1i.coco/
+data/phone_screen_defects/
+data/brokennnphone.png
+data/samsungp.png
+to _study/
+test/
+models/
+*.pt
+*.bin
+*.safetensors 

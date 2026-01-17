@@ -1,0 +1,481 @@
+image_path,device_type,defect_type,text_prompt
+data\Laptop-damage-detection-testing.v1i.coco\800013108_jpg.rf.c12cef8d63022e068f9afe40344063f2.jpg,laptop,screen scratch,The image shows a laptop computer with a cracked screen.
+data\Laptop-damage-detection-testing.v1i.coco\370151487_1627358067792700_2294245155332549098_n_jpg.rf.55583821c16b07d3238b753975d5d39d.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\600014338_jpg.rf.3880f0736463bf4954e61fa5f11a8075.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\387568312_1013866739859589_7261385527298626043_n_jpg.rf.d3198306262aaf1d6eca08f7ddf22d15.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-13-42-01_jpg.rf.6ea31336743855b76ddb0d7bc7a98fcd.jpg,laptop,keyboard malfunction,The keyboard is not functioning properly.
+data\Laptop-damage-detection-testing.v1i.coco\20240913123105_top_jpg.rf.98d271af8b9923ed20f065c0b8108bd6.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\24_jpg.rf.1b9eaee26b693acd166a74ea75f5951e.jpg,laptop,screen scratch,The screen of the laptop is cracked and has a scratch on it.
+data\Laptop-damage-detection-testing.v1i.coco\6100013175_jpg.rf.e0a2aa38722d57b6ddf3bded94105b98.jpg,laptop,cracked screen,The laptop's screen is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\YOLO-image-test_t_0_jpg.rf.cb8445aedd1fecd0db0dbc2aa179b1d0.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240906132137_top_jpg.rf.d681a723dfed079af1d8d11eca56c56f.jpg,laptop,back panel damaging,The back panel of the dell computer is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\387499955_638124278199813_8136866318153395863_n_jpg.rf.cdb7da97dded2cef6009aa66c2317706.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\98QtwkV9ivk_jpg.rf.5abb7a9cd037ea8c084f399ee02eeb94.jpg,laptop,back panel damaging,"The back panel of the laptop is damaged, with a cracked and broken appearance."
+data\Laptop-damage-detection-testing.v1i.coco\20240115_C223013936_jpg.rf.1203e38007b69d399f0941f6e7f53b0f.jpg,laptop,screen scratch,The screen has a scratch on it.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-13-47-36_jpg.rf.630077b144bcdd4a6a72716ec817968a.jpg,laptop,back panel damaging,The back panel is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_155400_jpg.rf.30187485e10c77ec005a837786df3707.jpg,laptop,keyboard malfunction,The keyboard is missing a key.
+data\Laptop-damage-detection-testing.v1i.coco\110_jpeg_jpg.rf.6754f3414555019ae4e31e6ac4f1ea6a.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\phone_screen_defects\Datacluster Cracked Screen (41).jpg,phone,cracked screen,The screen is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\385498683_853287709530521_1400322349940815434_n_jpg.rf.db64a50a1d286dc3ffe84d95b47bb449.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_155355_jpg.rf.aca46dcd714037f2e235f40df236e4ec.jpg,laptop,keyboard malfunction,The keyboard is broken.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153035_bottom_jpg.rf.9e51d91d57c66ecfe4c0093deef5ac2b.jpg,laptop,back panel damaging,The back panel is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\6100013274_jpg.rf.f1246cd58def2ddb8b293a3be07ed3cd.jpg,laptop,normal device,The laptop is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\7100014404_jpg.rf.f34c4b9524c308c62b1ac230dcf31382.jpg,laptop,battery swelling,The image shows a black Sony phone with a swollen battery.
+data\Laptop-damage-detection-testing.v1i.coco\370151487_1627358067792700_2294245155332549098_n_jpg.rf.5ce43dff332440bb917331d7de934b24.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\phone_screen_defects\Datacluster Cracked Screen (165).jpg,phone,cracked screen,The phone is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\370249993_347309641087068_309674323319470619_n_jpg.rf.3a9f99582b900381edc849e14d8a7912.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153116_bottom_jpg.rf.76490c9306f1a99180842974cf49c2a2.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\-223013237_jpeg.rf.ff9f7014391d5b892b76c0860fcdeba3.jpg,laptop,screen scratch,The screen has a scratch on it.
+data\Laptop-damage-detection-testing.v1i.coco\202_jpg.rf.1185dd01aa459c792b818db6877765ef.jpg,laptop,normal device,The device is a laptop.
+data\Laptop-damage-detection-testing.v1i.coco\386886175_1123892678989525_1858502656252888807_n_jpg.rf.ea4539edba06c3b27cc3d60e929f34cc.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240906135024_top_jpg.rf.5208e5dac56042173bcc9ab024ee3dec.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\370197575_280865421487294_7982785502145262537_n_jpg.rf.dde6d3e2c55998a488eb5f3b03680bc6.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\7100014452_jpg.rf.511d037997dc6745df0c19db8df2f860.jpg,laptop,battery swelling,The image shows a cell phone with a swollen battery.
+data\Laptop-damage-detection-testing.v1i.coco\20240906135024_top_jpg.rf.3db44163ee77536875072b50c1abe4f9.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\phone_screen_defects\Datacluster Cracked Screen (277).jpg,phone,cracked screen,The screen is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\46_jpg.rf.7e5754ff914c54035aee79f0c0257a66.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2800013357_jpg.rf.02a8f5fd4b619cfa4997c9f548d945c8.jpg,laptop,screen scratch,The laptop screen is cracked and has a scratch on it.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_160215-0-_jpg.rf.4fcdccfb869eb027ef8fff4dfa9e99cd.jpg,laptop,keyboard malfunction,The keyboard is broken.
+data\Laptop-damage-detection-testing.v1i.coco\1800003393_png_jpg.rf.71c0071f07bc5a71157f880dcf6ae2aa.jpg,laptop,screen scratch,The screen of the laptop is cracked and has a pinkish tint.
+data\Laptop-damage-detection-testing.v1i.coco\370293564_336508052207587_1766574074299814173_n_jpg.rf.ed3804c44af572e68e07575809a6fb3f.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\600014337_jpg.rf.190dc840f1da04c28a9a637bf621ad0d.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240913123033_top_jpg.rf.ddb7c8ef6e42bdd753652bbd32cb43a3.jpg,laptop,normal device,The device is a laptop.
+data\Laptop-damage-detection-testing.v1i.coco\387542258_743922817769641_992740013421046499_n_jpg.rf.4cb3bbed4ae8bfde08f14e251ece3456.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\6100013157_jpg.rf.b3f49346735da1099b2e1def9291cf41.jpg,laptop,normal device,The image shows a laptop computer with a black keyboard and a black screen. The laptop is open and appears to be in good condition.
+data\Laptop-damage-detection-testing.v1i.coco\370082498_699386798909721_2604580787779817296_n_jpg.rf.6ffa874540ab05c4935114a3c9f03246.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\6100013138_jpg.rf.eea7afd1e61f786926c4b777c131fe9a.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\75_jpg.rf.b5d7fa42ae50bcfaaca4747429e1eb76.jpg,laptop,keyboard malfunction,"The keyboard is missing a few keys, including the letters ""a"", ""s"", and ""d""."
+data\Laptop-damage-detection-testing.v1i.coco\-223013872_2024-01-12_14-54-49_jpg.rf.954de83282dcc0f1382899511eeec464.jpg,laptop,screen scratch,The screen has a scratch on it.
+data\Laptop-damage-detection-testing.v1i.coco\386886175_1123892678989525_1858502656252888807_n_jpg.rf.ec87660b7c51d66927e12811955da733.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\384537527_6505540196234790_6681892915337842260_n_jpg.rf.91cdda4710a40fb2866fa6f6dd22745b.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\46-b407fuwgtwy51_jpg.rf.ba6a41f01c2f9cb088651d549caaa9ab.jpg,laptop,charging port issue,The charging port is missing.
+data\Laptop-damage-detection-testing.v1i.coco\20240913123359_top_jpg.rf.745639d0c8a9fbafc3104bfab62d351b.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\370116014_265347126474136_4870941993653121884_n_jpg.rf.b45b5b1e4f2a80c494249714faa767d2.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\387525607_282712044579421_2280659367724447816_n_jpg.rf.35432eac2ef9daf17726cc6f60e7e8ac.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240906134724_top_jpg.rf.f5ea60c664f2f44b3aeac8e36ab1bd87.jpg,laptop,battery swelling,The laptop is missing a battery.
+data\Laptop-damage-detection-testing.v1i.coco\20240112_C223013901-3-_jpg.rf.a85abfb71e7823429e4fb491e5e4b66a.jpg,laptop,display flickering,"The image has a flickering display, which is a defect in the image."
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-14-37-01_jpg.rf.3f6b204ea50fcc9ea64a2c93194a6c61.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\1-w9ygt_jpg.rf.e7035a37b2f3981b204a0a665fd51619.jpg,laptop,back panel damaging,"The back panel of the device is damaged, with a visible crack."
+data\phone_screen_defects\Datacluster Cracked Screen (8).jpg,phone,cracked screen,The screen is cracked and has a broken part.
+data\Laptop-damage-detection-testing.v1i.coco\370196129_324140113630976_3836155530682924015_n_jpg.rf.6376ba1e511205973845209b129d11d4.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_155405_jpg.rf.c88f6dc290e3d5d5ad8f2f16bb494b26.jpg,laptop,keyboard malfunction,The keyboard is missing a key.
+data\Laptop-damage-detection-testing.v1i.coco\30_jpg.rf.b8922f0c6a5262d692b26b3e54d627b3.jpg,laptop,keyboard malfunction,The keyboard is missing a key.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153011_bottom_jpg.rf.f0042ad635f01a458bc0b07399876c20.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\6100013231_jpg.rf.9afa004e36ae8182d6ea7e2021a67eca.jpg,laptop,screen scratch,The screen has a scratch on it.
+data\Laptop-damage-detection-testing.v1i.coco\387525607_282712044579421_2280659367724447816_n_jpg.rf.9ed0c8bf65830ec8048240e88614581d.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240913123144_top_jpg.rf.be6eca38d0975f48a4e685d7df29cdaa.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\600014426_jpg.rf.f7d30f23fb3b3d33fd29423032b8374c.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153011_bottom_jpg.rf.d84d87e09817a8091dd2214627ce0bff.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\368522237_1996070060777759_2692032018839184843_n_jpg.rf.48ce00fa7d214ea7599527efc181a830.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\1400013289_png_jpg.rf.cdd3d401fcfe5c8c3bb171f07d326929.jpg,laptop,cracked screen,The screen is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\370228014_714353090587826_5061806500961603007_n_jpg.rf.55ef729340ce5bdb714db3aeda005cb6.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\1800003387_png_jpg.rf.d3a687d9dae2814f076d3971931b5ffc.jpg,laptop,screen scratch,The screen is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_160225-0-_jpg.rf.4fed5b45202c600c47d15bba349e69aa.jpg,laptop,keyboard malfunction,The keyboard is missing a key.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153107_bottom_jpg.rf.1599a2b8839d1f46ca10e1ff4a724c02.jpg,laptop,back panel damaging,The back panel of the dell computer is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\387536928_1109335957112618_3816927098928686102_n_jpg.rf.ad159e6883c815de9666cba1813929e4.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\101_jpeg_jpg.rf.9defb547712a5a5fcd354f98fecf8ea9.jpg,laptop,keyboard malfunction,The keyboard is missing some keys.
+data\Laptop-damage-detection-testing.v1i.coco\6700013785_jpg.rf.1efa150e7b10b952126799fd1709ed01.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\387556298_1090981735203056_5982827531060351580_n_jpg.rf.dab0bda6c9953efaa6d4511adfa60dde.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-18-50-29_jpg.rf.b8b80b71ffae37614f745362eadaefb1.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_155359-0-_jpg.rf.3237cb36833ed8f8626b714005849e65.jpg,laptop,keyboard malfunction,The keyboard is missing a key.
+data\Laptop-damage-detection-testing.v1i.coco\20240910152828_bottom_jpg.rf.e582a16ab308acb434af16cf8002f72f.jpg,laptop,back panel damaging,The back panel is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\29-0b6iedux6mb21_jpg.rf.0ffc2124d734942930016f427b378e16.jpg,laptop,back panel damaging,"The back panel of the laptop is damaged, with a piece of plastic covering the back of the laptop."
+data\Laptop-damage-detection-testing.v1i.coco\20240219_-223093638_jpg.rf.b785f56b034b35452f32287ff3efae5a.jpg,laptop,screen scratch,The image shows a screen with a scratch on it.
+data\phone_screen_defects\Datacluster Cracked Screen (216).jpg,phone,cracked screen,The phone is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_160213_jpg.rf.2dfde2c85268c72eb8dc489b537b39ac.jpg,laptop,keyboard malfunction,The keyboard is missing a key.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-13-53-15_jpg.rf.c61e785542d1f743c2d7ff2536ec486b.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\30_jpg.rf.300db5940e9a3b918695cfc77e7065d9.jpg,laptop,keyboard malfunction,The keyboard is broken.
+data\Laptop-damage-detection-testing.v1i.coco\386477968_1344731392797029_5575715056584165488_n_jpg.rf.1a5b3e6dc72ee4da0abe771fdce97fc2.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-17-59-10_jpg.rf.f0508baa727d94c826f533dce471ff69.jpg,laptop,cracked screen,The screen is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\6100013157_jpg.rf.ffdab54d7315fbebd9d7c41d78ac823a.jpg,laptop,normal device,The laptop is open and has a black screen.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153107_bottom_jpg.rf.7deab609867ef43da1335db56bf86e90.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\370249993_347309641087068_309674323319470619_n_jpg.rf.036875ae9cd1f88427a7f8c8f0685c16.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\387499955_638124278199813_8136866318153395863_n_jpg.rf.29bf2210ac8ba4fb2f43a635840dc3e4.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_155343-0-_jpg.rf.7c779c40f1d7a269696401c8fd19fd84.jpg,laptop,keyboard malfunction,The keyboard is missing a key.
+data\Laptop-damage-detection-testing.v1i.coco\20240906132516_top_jpg.rf.91cc226c45d76c96390888946e8b52d4.jpg,laptop,display flickering,The image shows a display with a flickering screen.
+data\Laptop-damage-detection-testing.v1i.coco\387524123_344207471403509_7103473876227628963_n_jpg.rf.d470039b276b75d53d14619326e674c6.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\387542258_743922817769641_992740013421046499_n_jpg.rf.ab0f67257366958215c50e1cfb787328.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240913122802_top_jpg.rf.0e17ddc9659a8a702dfb3272c23db94b.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\437_jpg.rf.bee9b736133236cb5b401305cd777183.jpg,laptop,screen scratch,The screen is scratched.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153213_bottom_jpg.rf.47e05c1fa67243902035547816fd9317.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\phone_screen_defects\Datacluster Cracked Screen (170).jpg,phone,cracked screen,The phone is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-18-38-53_jpg.rf.569eb8a59c5bbbad4c4ca4e1e101c6dd.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\479_jpg.rf.33dbf51ebb0932fd4ced886910fa8ae8.jpg,laptop,back panel damaging,"The back panel of the laptop is damaged, with a part of it missing."
+data\Laptop-damage-detection-testing.v1i.coco\387550465_345137534747423_2923349850042572787_n_jpg.rf.ffa7b6f4bc3b3de5e773968b3727f747.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240112_C223013901_jpg.rf.8d9ee620613d91db6fca3ae8fcec2e97.jpg,laptop,screen scratch,"The image shows a red screen with a small black dot in the middle. The dot is surrounded by a red square, and it appears to be a small black dot in the middle of the screen."
+data\Laptop-damage-detection-testing.v1i.coco\20240910153152_bottom_jpg.rf.7bc867cd5d2ed07e747989f47cafed2e.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\387536439_1981249195585520_8824663521566823273_n_jpg.rf.d1ea21e7b47747275c008b914ea3c195.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153107_bottom_jpg.rf.15894d062424c5b9dd3800e2db64c5fc.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-14-50-17_jpg.rf.9e483154211deb242e6db3b7ed34d770.jpg,laptop,back panel damaging,"The back panel of the device is damaged, with a cracked screen and a missing part."
+data\Laptop-damage-detection-testing.v1i.coco\387622487_291734880373638_5775984471605830976_n_jpg.rf.da868c1b78437a2f9d84f4d4b14e6979.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\387459687_851659923067403_3822777885389831890_n_jpg.rf.97715d660ebc382c2b3301daa153e1f0.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\1400013424_png_jpg.rf.f969c99e255278281441cec9ab6d74cf.jpg,laptop,keyboard malfunction,The keyboard is burnt and blackened.
+data\phone_screen_defects\Datacluster Cracked Screen (232).jpg,phone,cracked screen,The phone is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\387556298_1090981735203056_5982827531060351580_n_jpg.rf.6604aec0df7a37c2fd59aec480a9219f.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\98QtwkV9ivk_jpg.rf.89ad1a360f3dc854cbb46dbdf0ac8d1e.jpg,laptop,back panel damaging,"The back panel of the laptop is damaged, with a visible crack."
+data\Laptop-damage-detection-testing.v1i.coco\20220907_155402_jpg.rf.9249f2e3cef998dbf314797f2132e2b5.jpg,laptop,keyboard malfunction,The keyboard is broken.
+data\Laptop-damage-detection-testing.v1i.coco\79ee0cf77d319eeb96596f366cb84188_i-10_jpg.rf.78cc4e418563d7d5e17477ad7470e24a.jpg,laptop,charging port issue,The charging port is not visible.
+data\Laptop-damage-detection-testing.v1i.coco\12_jpg.rf.6043d870e4e8f95a035f0a4e533c21be.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\12-icjcbbufbpe11_jpg.rf.297aa17b9a0a9843eb887ae362965649.jpg,laptop,charging port issue,The charging port is broken.
+data\Laptop-damage-detection-testing.v1i.coco\850-G3-i5-6300U-500-8_jpg.rf.168435b95d9b160cb0a36d2a6c53421d.jpg,laptop,back panel damaging,"The back panel of the laptop is damaged, with a crack in the middle."
+data\Laptop-damage-detection-testing.v1i.coco\YOLO-test-image-5_jpg.rf.a03329e50d2ce41da28cc2d26aef58b2.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-18-31-32_jpg.rf.69ba1cccfceddaecbfac3df92afb2f8e.jpg,laptop,keyboard malfunction,The keyboard is not functioning properly.
+data\Laptop-damage-detection-testing.v1i.coco\5710013733_jpg.rf.ad12e1e08c57ec1b053286a90c8a8a09.jpg,laptop,cracked screen,The laptop's screen is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153128_bottom_jpg.rf.dc568aa542391dd00d092217a89716fd.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-18-47-18_jpg.rf.6a90a0db1a01dfd84ea8239659f5a5a8.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\223_jpg.rf.dfd1e12f2b8fd7e9763c295c0850404d.jpg,laptop,charging port issue,The charging port is broken.
+data\Laptop-damage-detection-testing.v1i.coco\385498683_853287709530521_1400322349940815434_n_jpg.rf.8ae71e3efd44fbb3a4c7eca725cf02d5.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\384537527_6505540196234790_6681892915337842260_n_jpg.rf.c8e5af4c40e458d8acdf9930a5d8ba2e.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\387588554_724350416221349_3031443269795842578_n_jpg.rf.fc7f0917b0b0a0afbfadbad872454fc5.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\7100014334_jpg.rf.707db97f9a76880f7fa26d75b4b37950.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\600014337_jpg.rf.c0281cbf258feb814a9acfaf54078e75.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\387550465_345137534747423_2923349850042572787_n_jpg.rf.848e6fdd6fe985ff6fe1262265ffffbc.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153128_bottom_jpg.rf.2e49be40e3f8e259b418385af93efb6d.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\6700013801_jpg.rf.57e8113d2bbba3534afa1ae2033f9a53.jpg,laptop,keyboard malfunction,The keyboard is broken.
+data\Laptop-damage-detection-testing.v1i.coco\235038702_399331e28a8bacdb064ea5fc96f6de2f_800_jpg.rf.e576972980a8ca6a0d4c5d6d4b46cd0c.jpg,laptop,cracked screen,The screen is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_160229-0-_jpg.rf.797823523bf7ca5e77cb689b3da762de.jpg,laptop,keyboard malfunction,The keyboard is black.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_155352-0-_jpg.rf.44063359b02fbd398e96e1286410db0a.jpg,laptop,keyboard malfunction,The keyboard is missing a key.
+data\Laptop-damage-detection-testing.v1i.coco\370228014_714353090587826_5061806500961603007_n_jpg.rf.0950ef18171b0277db2b792c0d6f2f68.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\370244757_339461181889105_482276015014448608_n_jpg.rf.22fac039dc8d6cee113443fa10df8c67.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\384537527_6505540196234790_6681892915337842260_n_jpg.rf.ecef228a8b9524445571500b44d6de72.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\phone_screen_defects\Datacluster Cracked Screen (245).jpg,phone,cracked screen,The phone has a cracked screen.
+data\Laptop-damage-detection-testing.v1i.coco\-223013237-4-_jpeg.rf.4ce196a127a8e40d1f0d69147386af5e.jpg,laptop,display flickering,The image is blurry.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_155343-0-_jpg.rf.cfaf9019d77d35ed11359e7c2cb407a8.jpg,laptop,keyboard malfunction,The keyboard is missing a key.
+data\Laptop-damage-detection-testing.v1i.coco\600014311_jpg.rf.ac913736e366a12fad0b99fc74ee0c16.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\6700013805_jpg.rf.8409736c65b43038849782ef2c96e5a4.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_155402_jpg.rf.38fb579f5cdb92a5c2dbf2443336fa2a.jpg,laptop,keyboard malfunction,The keyboard is missing a key.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_155411_jpg.rf.ec2dcb4d6659694f31d1dff95aebf7ae.jpg,laptop,keyboard malfunction,"The keyboard is missing a few keys, specifically the letters ""e"" and ""u""."
+data\phone_screen_defects\Datacluster Cracked Screen (224).jpg,phone,cracked screen,The device has a cracked screen.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_155346-0-_jpg.rf.eaf46e51e0643175dbc353370ac03920.jpg,laptop,keyboard malfunction,The keyboard is missing a key.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-14-32-34_jpg.rf.77e3cfbd5f628ff0c86e456332a23e41.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\370060857_232952403109249_2201671253730766584_n_jpg.rf.f79c347ca6195e86aae3288257edbd43.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\370292903_1394141611482903_357238308047406006_n_jpg.rf.c375f26bff8274b8b9a3079e189fe253.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-17-59-10_jpg.rf.06468afe0b9bf10aa0f82e3d8ed379a8.jpg,laptop,back panel damaging,The back panel of the computer is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\492_jpg.rf.76303acec9b00fbd8b1f59dc5e9cb202.jpg,laptop,keyboard malfunction,The keyboard is broken and has a missing key.
+data\Laptop-damage-detection-testing.v1i.coco\387333767_999843797963357_3373433226000860989_n_jpg.rf.9ed90eed90b30af9d245298d5b8a119e.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\phone_screen_defects\Datacluster Cracked Screen (283).jpg,phone,cracked screen,The phone is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153213_bottom_jpg.rf.e8704a78e9f2b29a225c74a728c9bf67.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_155359-0-_jpg.rf.c421411caacd0c47b44bff919f805a7e.jpg,laptop,keyboard malfunction,The keyboard is malfunctioning.
+data\Laptop-damage-detection-testing.v1i.coco\-_2024-10-12_184247733_png.rf.640ed25bb28ffc21fe1a62f102058f0f.jpg,laptop,display flickering,The laptop is on.
+data\Laptop-damage-detection-testing.v1i.coco\387499955_638124278199813_8136866318153395863_n_jpg.rf.96cc8e185d52baabf7ec0703d2f94dc6.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240906135532_top_jpg.rf.a4f1a7f1b8c2a89514b3213830dae418.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\phone_screen_defects\Datacluster Cracked Screen (290).jpg,phone,cracked screen,The screen is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\387459687_851659923067403_3822777885389831890_n_jpg.rf.5d4ad06257040fa8fcf337be1a393609.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\370120669_876293337526455_6973027296132937885_n_jpg.rf.e37e0fb1c3a21dd64f408186a4408bf2.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\6100013157_jpg.rf.90c409f781af9be781f34fb78698c73d.jpg,laptop,normal device,The laptop is missing its screen.
+data\Laptop-damage-detection-testing.v1i.coco\386870979_667448808471839_1849354985514905760_n_jpg.rf.ad62ec61b48d9f612d965e289c033683.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\30_jpg.rf.a5c7cab4002a2ac9c6abec011bf2dfea.jpg,laptop,keyboard malfunction,The keyboard is broken.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-14-32-34_jpg.rf.ba0c2e4631c65e25109785a484d3bc74.jpg,laptop,charging port issue,The charging port is missing.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-13-40-28_jpg.rf.7e07f036aa04d844cb7f09143671d898.jpg,laptop,charging port issue,The charging port is missing.
+data\phone_screen_defects\Datacluster Cracked Screen (289).jpg,phone,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-18-12-57_jpg.rf.d02b550d6d984cb01e3f6b2d0410c677.jpg,laptop,keyboard malfunction,The keyboard is not functioning properly.
+data\Laptop-damage-detection-testing.v1i.coco\20240906133458_top_jpg.rf.dc88d06af48471e4db190aa72e842bbc.jpg,laptop,normal device,The device is a laptop.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-13-50-51_jpg.rf.9ca9070c3e0c7af87a895ba2d604dd69.jpg,laptop,normal device,The device is a cell phone.
+data\Laptop-damage-detection-testing.v1i.coco\370197575_280865421487294_7982785502145262537_n_jpg.rf.070ae45d5e396ba5da9472a0f314b787.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-14-41-47_jpg.rf.e995b62bc40acc78fe4b706d5a5302a8.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\6100013157_jpg.rf.6fc180859c9192f896232daa53f754ac.jpg,laptop,normal device,The image shows a laptop computer with a cracked screen.
+data\Laptop-damage-detection-testing.v1i.coco\385498683_853287709530521_1400322349940815434_n_jpg.rf.719ba5075ffabc9dbe74f19628c576b4.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\37-119986id6ef37ed6e23cd25_jpg.rf.7b447b439078af216edee80e7e893d7c.jpg,laptop,back panel damaging,"The back panel of the device is damaged, with a crack in the middle."
+data\Laptop-damage-detection-testing.v1i.coco\370244757_339461181889105_482276015014448608_n_jpg.rf.6670e75b56f1f6cf42c5bc67aa1a66f5.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\phone_screen_defects\Datacluster Cracked Screen (33).jpg,phone,battery swelling,The phone is damaged due to a battery swelling.
+data\Laptop-damage-detection-testing.v1i.coco\370116014_265347126474136_4870941993653121884_n_jpg.rf.103aaf5fe72622ae74c3a3974e011826.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\phone_screen_defects\Datacluster Cracked Screen (218).jpg,phone,back panel damaging,The back panel of the cell phone is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153128_bottom_jpg.rf.9e5cb9a016ca7f1d71d428c1fb436ab5.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\385498683_853287709530521_1400322349940815434_n_jpg.rf.70b9dc7af1501305928b9439f146edff.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\1920-1920_jpg.rf.88ce7804f623d0d16dd78051c60ad04f.jpg,laptop,back panel damaging,The back panel is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\6100013168_jpg.rf.0d1dc33d859d1e46a81f448286b934fe.jpg,laptop,keyboard malfunction,"The keyboard is missing a few keys, specifically the letters ""a"", ""s"", and ""d""."
+data\Laptop-damage-detection-testing.v1i.coco\385395849_1105680957079749_7655585593885085062_n_jpg.rf.f500a7037fdbfe2a7cfa22414e28963a.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-16-41-59_jpg.rf.70b8726fcff7c829991e3e9e75bcbe6a.jpg,laptop,keyboard malfunction,"The keyboard is missing the letters ""e"" and ""c""."
+data\Laptop-damage-detection-testing.v1i.coco\20240910153035_bottom_jpg.rf.a64b556ff725e2d28c7a793bf9023808.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_160208-0-_jpg.rf.38852be93fc96495d412a25761f8abc6.jpg,laptop,keyboard malfunction,The keyboard is missing a key.
+data\Laptop-damage-detection-testing.v1i.coco\386477968_1344731392797029_5575715056584165488_n_jpg.rf.18eeaa57b38cea36e6a21cd720b3313f.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\387568312_1013866739859589_7261385527298626043_n_jpg.rf.59f187f6ed7bd56d843c852ecc41a843.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\370244757_339461181889105_482276015014448608_n_jpg.rf.d5b10602a5cea3cfed50f208c4384448.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\phone_screen_defects\Datacluster Cracked Screen (157).jpg,phone,cracked screen,The phone has a cracked screen.
+data\Laptop-damage-detection-testing.v1i.coco\6000014612_jpg.rf.bbca0645ffdc3332b607cdde6a106b48.jpg,laptop,normal device,The laptop is missing a key.
+data\Laptop-damage-detection-testing.v1i.coco\7100014404_jpg.rf.eff78c9d751da94be3683cd6df33fa09.jpg,laptop,battery swelling,The image shows a black Sony phone with a swollen battery.
+data\Laptop-damage-detection-testing.v1i.coco\386884550_856628329109809_4430599761854262884_n_jpg.rf.101143d0039ca29d37846bb5847338cf.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\385395849_1105680957079749_7655585593885085062_n_jpg.rf.aa3fad79f21ef73949b97720ecaff075.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\7100014439_jpg.rf.78b41fdd987097a393095840bf76be4a.jpg,laptop,charging port issue,The charging port is broken.
+data\Laptop-damage-detection-testing.v1i.coco\6700013805_jpg.rf.7400cfae254c464ef3d40f8a6f148d73.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-18-27-22_jpg.rf.4467643eadc477e46a8e553aab914c15.jpg,laptop,back panel damaging,The back panel of the computer is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\-223014448-2_jpeg.rf.b220b082372158a29cebfe68c79a0469.jpg,laptop,screen scratch,The screen has a scratch on it.
+data\phone_screen_defects\Datacluster Cracked Screen (32).jpg,phone,cracked screen,The screen is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\20240906135024_top_jpg.rf.b34cdc567937e301b12f1495ab19ae42.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\370293564_336508052207587_1766574074299814173_n_jpg.rf.7393e28433a116179772e16aeb5e18ed.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\224_jpg.rf.75dfbe58a123f37b462f253f486b27f7.jpg,laptop,charging port issue,The charging port is broken.
+data\phone_screen_defects\Datacluster Cracked Screen (276).jpg,phone,back panel damaging,"The back panel of the phone is damaged, with a cracked screen and a broken frame."
+data\Laptop-damage-detection-testing.v1i.coco\600014368_jpg.rf.9187a11ceff82f29c4d61baca5c637ae.jpg,laptop,back panel damaging,"The back panel of the device is damaged, with a visible crack."
+data\Laptop-damage-detection-testing.v1i.coco\387536928_1109335957112618_3816927098928686102_n_jpg.rf.1ed3da32d40fe9dba900950e20ab93ad.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153128_bottom_jpg.rf.7c8da2918e0471494a08e173557160fb.jpg,laptop,normal device,The device is a printer.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153051_bottom_jpg.rf.025a8013d475cbb14ced377711891004.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\phone_screen_defects\Datacluster Cracked Screen (241).jpg,phone,cracked screen,The screen is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\600014289_jpg.rf.ac390390706d822bcf80ca812aca1df7.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\600014336_jpg.rf.a244956e8ef83685a90d09b731565c96.jpg,laptop,back panel damaging,"The back panel of the laptop is damaged, with a cracked and broken appearance."
+data\Laptop-damage-detection-testing.v1i.coco\20220907_155359-1-_jpg.rf.bacee402472d0900b51c59bebee40d66.jpg,laptop,keyboard malfunction,The keyboard is broken.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-14-38-21_jpg.rf.54585347adf218d76e8afc6f347c16ad.jpg,laptop,screen scratch,The image shows a screen with a scratch on it.
+data\Laptop-damage-detection-testing.v1i.coco\600014337_jpg.rf.2e8c4756ef794f71167646ce0cc6d8f9.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\phone_screen_defects\Datacluster Cracked Screen (236).jpg,phone,cracked screen,The screen is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\36_jpg.rf.56bfd2b807db77e544ee8af22600e605.jpg,laptop,screen scratch,The screen of the laptop has a scratch.
+data\Laptop-damage-detection-testing.v1i.coco\100_jpg.rf.c8d61e1133469ea3dcd9024146905a95.jpg,laptop,charging port issue,The charging port is broken.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-14-50-17_jpg.rf.569a77290956f078b6ce19cad3887505.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\600014372_jpg.rf.73c8cdd43103511d15fe0016ec95df11.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\57100059_151f1c705f4aad64db78e39ca559048c_800_jpg.rf.55ed80a3a329df3861c8cd9ce9701f9c.jpg,laptop,cracked screen,The screen is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\20240913123033_top_jpg.rf.6888d319d6cdc9d4ede179bd2f9b3990.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\387326889_628634302793752_3754668532120639129_n_jpg.rf.76ced8193895bf743415d74e770c3f51.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-14-40-15_jpg.rf.68a77764675fe874ab9366316f76bf73.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240913122802_top_jpg.rf.a3135836edbf5c94721d0a419e10f402.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\800013136_jpg.rf.6ef653c024326c362ab3bdcdcfcf6ec5.jpg,laptop,cracked screen,The screen is cracked and broken.
+data\Laptop-damage-detection-testing.v1i.coco\600014363_jpg.rf.4df8a8c2aafaebf4b664b57c7ab2bad6.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\902e0d8552f23fb35be5e45561852f84_i-35_jpg.rf.b38378056d0d1f0cd3a7ff224fc27bcd.jpg,laptop,display flickering,The image shows a computer screen with a small bug on it.
+data\Laptop-damage-detection-testing.v1i.coco\-223013237_jpeg.rf.6c954fe011a4625fca89528930280292.jpg,laptop,display flickering,"The image is flickering, which is a defect in the display."
+data\Laptop-damage-detection-testing.v1i.coco\370197575_280865421487294_7982785502145262537_n_jpg.rf.ef2cf0f4d59b6362bb4ac35c077a0901.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\7100014404_jpg.rf.9703fc44b32d7f8d495b22ddc763c80e.jpg,laptop,charging port issue,The charging port is broken.
+data\Laptop-damage-detection-testing.v1i.coco\12_jpg.rf.8976f83dba5cb7ee1bf67fee2db18cce.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_155402_jpg.rf.064727a855f348a4438f16bbd0d17e9c.jpg,laptop,keyboard malfunction,The keyboard is broken.
+data\Laptop-damage-detection-testing.v1i.coco\1400013368_jpg.rf.7106a773e2550218fd6c8f52cc7b9401.jpg,laptop,back panel damaging,"The back panel of the laptop is damaged, with cracks and shattered glass."
+data\Laptop-damage-detection-testing.v1i.coco\20220907_155359-1-_jpg.rf.3062aa9a9c28fcb8e6834189b5087845.jpg,laptop,keyboard malfunction,The keyboard is missing a key.
+data\Laptop-damage-detection-testing.v1i.coco\2800013319_jpg.rf.d7b2726cc4756fc7d6e92eedae871820.jpg,laptop,cracked screen,The screen is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\1800003401_png_jpg.rf.b0e067fcb2f97c886d97f8547b81f24c.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\6700013785_jpg.rf.dac08e178f6549de4e1e780185ebeb0f.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\387542258_743922817769641_992740013421046499_n_jpg.rf.201ff32673ff7ba6e3402dcc82ca715a.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\370151487_1627358067792700_2294245155332549098_n_jpg.rf.1a2a3eb754a37dc406146f1944d878ad.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\26_jpg.rf.c23895fa54010e357b61af21cdf8803e.jpg,laptop,cracked screen,"The laptop's screen is cracked, which is a defect in the device."
+data\Laptop-damage-detection-testing.v1i.coco\370151487_1627358067792700_2294245155332549098_n_jpg.rf.b41cb303d947beb5948fb70493ee08ca.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\30_jpg.rf.b8a4c3b613d49d502f4b9f6846fc9c7c.jpg,laptop,keyboard malfunction,The keyboard is broken.
+data\Laptop-damage-detection-testing.v1i.coco\385498683_853287709530521_1400322349940815434_n_jpg.rf.27beeb7bc325f491c10cd517e6946c49.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153107_bottom_jpg.rf.4b9683f720820eb646282d43d9ec1f94.jpg,laptop,normal device,The device is a laptop.
+data\phone_screen_defects\Datacluster Cracked Screen (198).jpg,phone,cracked screen,The image shows a cracked cell phone screen.
+data\Laptop-damage-detection-testing.v1i.coco\5700000791_jpg.rf.6408ba1d1e996748d72dfc4b958df3a4.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2800013356_jpg.rf.9fdeff1adf0b980069256e404285858d.jpg,laptop,screen scratch,The screen of the laptop is cracked and has a scratch on it.
+data\Laptop-damage-detection-testing.v1i.coco\495_jpg.rf.4b1013e09f9c295c1032eebd36c52e1b.jpg,laptop,charging port issue,The charging port is missing on the laptop.
+data\Laptop-damage-detection-testing.v1i.coco\20240910152821_bottom_jpg.rf.528958244fb354682a935d878827888a.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\7_jpg.rf.769b81a50414524d290b13c233febbd8.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153059_bottom_jpg.rf.4eb238fca0b414b3dd6f9b932155f03e.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\phone_screen_defects\Datacluster Cracked Screen (161).jpg,phone,cracked screen,The phone is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\385395849_1105680957079749_7655585593885085062_n_jpg.rf.e9c26f531dab905cda8dad5154667e83.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\1400013434_jpg.rf.eb55a954f524e85e9c5eca12d32a5d76.jpg,laptop,keyboard malfunction,The keyboard is broken and has been ripped apart.
+data\phone_screen_defects\Datacluster Cracked Screen (199).jpg,phone,cracked screen,The screen is cracked and broken.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153139_bottom_jpg.rf.758211bc6b2f33a09f8f78cb20d46293.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\487_jpg.rf.16b7a8c9a2904305b42a4365d07ad754.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\6100013221_jpg.rf.654d1b0e3efaa449e644c2ebbb7339c0.jpg,laptop,back panel damaging,The laptop's back panel is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\6700013805_jpg.rf.18e6fa2df1f2d89b1f728c33450dcf90.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\25_png_jpg.rf.024ea1e07e5e7b4303d044105880e821.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\5700013543_jpg.rf.c348523d68c10b8cb017f726412d5c0b.jpg,laptop,screen scratch,The screen of the laptop is scratched.
+data\Laptop-damage-detection-testing.v1i.coco\42_jpg.rf.08e89bceb540f7cda69f9628d1b7a497.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\600014307_jpg.rf.e2851ddeeb1693edadb557628e48d822.jpg,laptop,back panel damaging,"The back panel of the laptop is damaged, with a hole in the center."
+data\Laptop-damage-detection-testing.v1i.coco\20240913123359_top_jpg.rf.681fad87030e12c917750f0945f16b6b.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-16-38-47_jpg.rf.a47e3dad72bf61d9cfabe35c8e042dd4.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-13-53-15_jpg.rf.b72c18f8dea9a1be0f8668c170863ab3.jpg,laptop,screen scratch,The image shows a close-up of a laptop screen with a scratch on it.
+data\Laptop-damage-detection-testing.v1i.coco\384539384_3350535248571785_1092115554516421472_n_jpg.rf.6b7e4c3d999e4dd90ed10352dac61d1b.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\387550465_345137534747423_2923349850042572787_n_jpg.rf.36ccaf9d4c8cb000a8100013791013ac.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240913123033_top_jpg.rf.c81e8cf5134a363e394a92f32c09b2e0.jpg,laptop,battery swelling,"The image shows a laptop computer with a battery swelling defect. The laptop is open and the battery is swelling, indicating a potential issue with the device's power source."
+data\Laptop-damage-detection-testing.v1i.coco\7100014404_jpg.rf.1dc96728702205f98d3f0e1c00dad8d3.jpg,laptop,back panel damaging,The back panel is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\800013136_jpg.rf.910346bbec335941e493abc759369dee.jpg,laptop,screen scratch,The screen of the laptop is cracked and has a blue background.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153116_bottom_jpg.rf.07639fd24b2d7bb737bda1190f9f4501.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_155359-0-_jpg.rf.26d7b59d5d1df7f8432e9a6c45169892.jpg,laptop,display flickering,The image shows a display of a computer with a flickering screen.
+data\Laptop-damage-detection-testing.v1i.coco\370262362_811861507610740_5903580242507620236_n_jpg.rf.e979822df7ab0e492f522ad3d27936f8.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\387524123_344207471403509_7103473876227628963_n_jpg.rf.40a9e04f76c71fcfa4173b7c0b625f61.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-18-17-07_jpg.rf.8b617e6779a66d35842a40b4806490bb.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\31_jpg.rf.1c29d30140262c572f86c404892bf5b3.jpg,laptop,cracked screen,"The laptop's screen is cracked, which is a defect in the device."
+data\Laptop-damage-detection-testing.v1i.coco\20240910152953_bottom_jpg.rf.0a1ca13ab2a5f5397293c7345a2afb06.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\370244757_339461181889105_482276015014448608_n_jpg.rf.9067cf0e7f591734910c8c95df2bdf0f.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-17-57-27_jpg.rf.74904a8b061b665a735eb40bdbd3cdb7.jpg,laptop,keyboard malfunction,The keyboard is not functioning properly.
+data\Laptop-damage-detection-testing.v1i.coco\1800003384_png_jpg.rf.da95966a4dc4098c73383f669b37e9ec.jpg,laptop,back panel damaging,"The laptop's back panel is damaged, with a cracked screen and a missing panel."
+data\Laptop-damage-detection-testing.v1i.coco\370293564_336508052207587_1766574074299814173_n_jpg.rf.3dade7bebb18c2de6c127817128e5541.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\6100013186_jpg.rf.93e9b7474acec0ecb9206d15913227b5.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-18-31-32_jpg.rf.e0beae4681cf29116700b78e5ec5d3a6.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-16-47-45_jpg.rf.17c42650158a45f2e3dbd6f3a9b1a847.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-14-50-17_jpg.rf.fdf418438d53f13cca1467895f05c4a5.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240906135024_top_jpg.rf.75e372816465983c15b862469e66a4e4.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\phone_screen_defects\Datacluster Cracked Screen (227).jpg,phone,cracked screen,The phone is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\20240913122802_top_jpg.rf.460b30d79f53828ea315747dd723da5d.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\387622487_291734880373638_5775984471605830976_n_jpg.rf.7f2326645d2575aae9bf56546fc866f7.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\387459687_851659923067403_3822777885389831890_n_jpg.rf.63fba41ba70cf7597d2fe25c5c39112e.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153128_bottom_jpg.rf.b271b6aaab057494255995ed591e2f4b.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\370292903_1394141611482903_357238308047406006_n_jpg.rf.671f8320185c89bbf95c64b4414cf75a.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\1900011726_png_jpg.rf.cd2688abc3f403de234f8bf26796c8b2.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\phone_screen_defects\Datacluster Cracked Screen (155).jpg,phone,cracked screen,The screen is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\37_jpg.rf.c2d7d352223e827e5d1fefd1583a6ec2.jpg,laptop,cracked screen,The screen is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-16-27-01_jpg.rf.4224f881b627255c1e09542172cdf222.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240913123033_top_jpg.rf.8e7beca35bbe89943e5c46391b196073.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\370116014_265347126474136_4870941993653121884_n_jpg.rf.8d0adc3c849276744acdd7982b52b618.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\phone_screen_defects\Datacluster Cracked Screen (46).jpg,phone,cracked screen,The screen is cracked and broken.
+data\Laptop-damage-detection-testing.v1i.coco\18_jpg.rf.cbcb37a467dfb71f47c1a154acfd5352.jpg,laptop,charging port issue,The charging port is broken.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-14-37-01_jpg.rf.9918bcac71c7eb9a09efb61b35c39057.jpg,laptop,charging port issue,The charging port is missing.
+data\Laptop-damage-detection-testing.v1i.coco\600014338_jpg.rf.b351b7077017c594029a3a2301f4a120.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\phone_screen_defects\Datacluster Cracked Screen (174).jpg,phone,cracked screen,The screen is cracked and has a blue light shining through it.
+data\phone_screen_defects\Datacluster Cracked Screen (47).jpg,phone,cracked screen,The screen is cracked and has a yellowish tint.
+data\Laptop-damage-detection-testing.v1i.coco\20240913122802_top_jpg.rf.ae83c2f3dfa8c43d0827aa4fe20160c0.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153128_bottom_jpg.rf.22460dec533598f30f09a6a9fd71118e.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\387588554_724350416221349_3031443269795842578_n_jpg.rf.4e4100502bfe1f5060529e999528aa10.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\25_png_jpg.rf.0d8555183b0a044bc80ed709d8910331.jpg,laptop,battery swelling,The image shows a close-up of a battery swelling.
+data\Laptop-damage-detection-testing.v1i.coco\499_jpg.rf.c205bb61545fe02667274b58a6f8d9f1.jpg,laptop,back panel damaging,"The back panel of the laptop is damaged, with a cracked and broken appearance."
+data\Laptop-damage-detection-testing.v1i.coco\2100006198_jpg.rf.4d4696a044acdf6eeac8ab6a934d3596.jpg,laptop,screen scratch,The laptop's screen is scratched.
+data\Laptop-damage-detection-testing.v1i.coco\7_jpg.rf.cdf0063bc074e1afd8356debdf4eca85.jpg,laptop,broken hinge,"The laptop is missing its hinge, which is a crucial part of the device that holds the screen to the keyboard. This missing hinge is a significant defect, as it renders the laptop unusable without a replacement."
+data\Laptop-damage-detection-testing.v1i.coco\600014363_jpg.rf.cbb8a9be4c7b3937f700836036d8c6ce.jpg,laptop,back panel damaging,The back panel is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_160213_jpg.rf.aff69704d050e3aa6cdddea04c081d41.jpg,laptop,back panel damaging,The back panel is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\370120669_876293337526455_6973027296132937885_n_jpg.rf.3816d727c192400382e1c1685534c495.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\370151487_1627358067792700_2294245155332549098_n_jpg.rf.92f8bacbe052beddb708bb7266f4c0d9.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\101_jpeg_jpg.rf.05720d750f7d1ddad8acd59a6819b362.jpg,laptop,keyboard malfunction,The keyboard is missing some keys.
+data\phone_screen_defects\Datacluster Cracked Screen (203).jpg,phone,normal device,The device is a cell phone.
+data\Laptop-damage-detection-testing.v1i.coco\100_jpeg_jpg.rf.0fc541fbff692772c27afc1cc942188a.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_160225-1-_jpg.rf.6c78460a9297b71ab59108d85259639d.jpg,laptop,keyboard malfunction,The keyboard is missing a key.
+data\Laptop-damage-detection-testing.v1i.coco\385395849_1105680957079749_7655585593885085062_n_jpg.rf.6c9f4e7a257526b34ad74096fb8c7ef7.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240913122802_top_jpg.rf.3b33fe8e2fec5995d3711c537e23e5f4.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153139_bottom_jpg.rf.334c2a112ab7a5e42ed45c89c46dc423.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-18-50-29_jpg.rf.03a445e4fc797350589e537de5771327.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_160212-1-_jpg.rf.d590d7e7aac7baee106b1da387957a9c.jpg,laptop,keyboard malfunction,The keyboard is black and has a few keys missing.
+data\Laptop-damage-detection-testing.v1i.coco\1116_jpg.rf.85330b718931cd93c06ce9c86c5320f8.jpg,laptop,keyboard malfunction,The keyboard is not functioning properly.
+data\Laptop-damage-detection-testing.v1i.coco\75_jpg.rf.da753d241ed2b93048c3a91e02db6ac5.jpg,laptop,keyboard malfunction,"The keyboard is missing a few keys, including the letters ""a"", ""s"", and ""d""."
+data\Laptop-damage-detection-testing.v1i.coco\387333767_999843797963357_3373433226000860989_n_jpg.rf.9e6479ff57089e6f8aa3e4134793cf02.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\46-b407fuwgtwy51_jpg.rf.9d822b6be6174df8c89a25fbd74d5bee.jpg,laptop,charging port issue,The charging port is not working properly.
+data\Laptop-damage-detection-testing.v1i.coco\20240910152953_bottom_jpg.rf.4bf522d9289d37c6ffede1fc3f480fb5.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240913122802_top_jpg.rf.1e3d74fd38beeaa3e09d63b5f6caf6b7.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\387459687_851659923067403_3822777885389831890_n_jpg.rf.0a866843dda20c0bfc86515c3b367097.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_155359-0-_jpg.rf.3b9f664c3d85236e5bd49dc5d9097c62.jpg,laptop,display flickering,The image shows a display with a flickering screen.
+data\Laptop-damage-detection-testing.v1i.coco\20240913123033_top_jpg.rf.5e3a0ba1092cd45f7019bd20b0f02765.jpg,laptop,normal device,The laptop is missing a key.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153139_bottom_jpg.rf.0f593ded8c9ed280c61f0b465875de71.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\1400013331_png_jpg.rf.2b2de43f5c09df43168e78406279d527.jpg,laptop,cracked screen,The laptop is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\-_2024-10-12_184247733_png.rf.0d98f93a97a2607c33fd868d34f5281c.jpg,laptop,keyboard malfunction,The keyboard is not functioning properly.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153213_bottom_jpg.rf.f4a35a1d651743ec066a2ed1e1c9c07e.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-17-57-27_jpg.rf.510bd17ecd4577469819ec093ffff60d.jpg,laptop,keyboard malfunction,"The keyboard is missing the letters ""e"" and ""r"" on the top row."
+data\Laptop-damage-detection-testing.v1i.coco\370196129_324140113630976_3836155530682924015_n_jpg.rf.6816b3578ba403ed647e59226f225d7d.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2800013425_jpg.rf.e1306f26899ec868972e530d1185beb8.jpg,laptop,back panel damaging,"The back panel of the laptop is damaged, with a cracked screen and a broken keyboard."
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-18-44-44_jpg.rf.d07736d91bb7269097a8a83ee01d9b0e.jpg,laptop,cracked screen,The screen is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\7_jpg.rf.27ae0ce2a78dd463aeb921172b97d748.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_155359-1-_jpg.rf.ff02f897f4dce7e1361b11859377957f.jpg,laptop,keyboard malfunction,The keyboard is missing a key.
+data\Laptop-damage-detection-testing.v1i.coco\20240906142210_bottom_png_jpg.rf.94eed14d5735b4c908d656448c325e82.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153128_bottom_jpg.rf.0f3077890706aba7fdbcd216a43b811d.jpg,laptop,normal device,The device is a laptop.
+data\Laptop-damage-detection-testing.v1i.coco\387536439_1981249195585520_8824663521566823273_n_jpg.rf.5ab6560bc7facdea58d449e7609751c8.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\386884550_856628329109809_4430599761854262884_n_jpg.rf.31cf8e8ac14848ff1b678c455a495842.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\26_jpg.rf.2a3e5cffc55512c0c4ebcef8c833cead.jpg,laptop,screen scratch,The screen is cracked and has a green line going through it.
+data\Laptop-damage-detection-testing.v1i.coco\1800003396_png_jpg.rf.d97ddb12f90cb2101f5db29a2c87a0c3.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\385385665_653342356977998_6386218600707142699_n_jpg.rf.4339d2c27ef25555cd28365d64dfdcd4.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_155342_jpg.rf.5bf8f64d183fbc441860de7c122296eb.jpg,laptop,keyboard malfunction,The keyboard is missing a key.
+data\Laptop-damage-detection-testing.v1i.coco\385385665_653342356977998_6386218600707142699_n_jpg.rf.6aa8d14bb6fe6e9b07de83a61a34c164.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-18-27-22_jpg.rf.1057cae670a3e34b57a6e7f476266958.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240910152812_bottom_jpg.rf.91a4e63a2532482de04e28ab414e8a6b.jpg,laptop,cracked screen,The screen is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\370130480_740339634591263_2767953956412768827_n_jpg.rf.7e61ba093c544e6d4dd7a0f34fc569e2.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\28_jpg.rf.2674319e074eab5bbe183327ca30292f.jpg,laptop,keyboard malfunction,The keyboard is broken.
+data\Laptop-damage-detection-testing.v1i.coco\385395849_1105680957079749_7655585593885085062_n_jpg.rf.ec55e3c5e6ca8d6b7b3ee642e6c502a7.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\6700013785_jpg.rf.085f765811bbfa1c8d8808ab6216383c.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\387622487_291734880373638_5775984471605830976_n_jpg.rf.42951ab4cc8457ff7bf5de8c47febc89.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\166498_1587452281_2_jpg.rf.f5d92bc79e22b20788470c7248bdc2cc.jpg,laptop,camera defect,"The image has a camera defect, which is visible as a blurry area in the middle of the screen."
+data\Laptop-damage-detection-testing.v1i.coco\20240913123359_top_jpg.rf.87b3258dc1faeea2cdf84e18755d2097.jpg,laptop,battery swelling,The image shows a cell phone with a battery swelling.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153107_bottom_jpg.rf.4f87980b4c74d67891a68da0b4ea7149.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\387542258_743922817769641_992740013421046499_n_jpg.rf.8171596fb166d8dbfcdf1e5cf450a7e1.jpg,laptop,screen scratch,The laptop has a scratch on the screen.
+data\phone_screen_defects\Datacluster Cracked Screen (205).jpg,phone,cracked screen,The phone is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\65_jpg.rf.58f8ee3659ae7ea2a8f0a400e65b04bb.jpg,laptop,keyboard malfunction,The keyboard is missing a key.
+data\Laptop-damage-detection-testing.v1i.coco\6700013805_jpg.rf.e17f5a7083d3aab144f0b46617ff334e.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\387326889_628634302793752_3754668532120639129_n_jpg.rf.1560445aa12d7ea8f0862ee8def7e457.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\031245531b21f2_jpg.rf.9c8b9e0c40d4cb02c87d5c7f99b21f4a.jpg,laptop,water damage,The water damage is on the left side of the image.
+data\Laptop-damage-detection-testing.v1i.coco\20240906132353_top_jpg.rf.2b63090adce7f1ae72833c45ea4d8378.jpg,laptop,normal device,The device is a computer.
+data\Laptop-damage-detection-testing.v1i.coco\37-119986id6ef37ed6e23cd25_jpg.rf.cf7204b5619a556f1a015d7be53c1dab.jpg,laptop,back panel damaging,"The back panel of the device is damaged, with a crack running through it."
+data\phone_screen_defects\Datacluster Cracked Screen (287).jpg,phone,cracked screen,The phone is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_155343-0-_jpg.rf.395f8b92cd677c478c8ab7d51b62dc2a.jpg,laptop,keyboard malfunction,The keyboard is missing a key.
+data\Laptop-damage-detection-testing.v1i.coco\387505318_687512386648113_1787845701610241914_n_jpg.rf.f4b130ff9bc754426a3ba8e5e74e2b1d.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\600014410_png_jpg.rf.ef088cd8b251d938c43b6b9a879a6004.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153059_bottom_jpg.rf.88212955e0248e8a52cf5e2b083783cc.jpg,laptop,normal device,The laptop is missing its screen.
+data\Laptop-damage-detection-testing.v1i.coco\20240906135024_top_jpg.rf.4d5cc366a5c321f2f74c4704cf95daee.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\600014363_jpg.rf.6c082c05850257944ab9425cb59e21f6.jpg,laptop,back panel damaging,The back panel is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\12-icjcbbufbpe11_jpg.rf.39da80217b51ab68873ae7f937df2944.jpg,laptop,button damage,The button is broken.
+data\Laptop-damage-detection-testing.v1i.coco\7100014473_png.rf.5da0f22a0ebefafe8450beb5816d03bf.jpg,laptop,charging port issue,The charging port is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-18-31-32_jpg.rf.f81315f104fb4af601b1cbc8bc3eca93.jpg,laptop,screen scratch,The image shows a close-up of a screen with a scratch on it.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-14-54-03_jpg.rf.70221d0480232454ce0c899cea06614e.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-18-07-23_jpg.rf.09eb8dddf7cb0b7ee57265116df3e8f6.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\37-119986id6ef37ed6e23cd25_jpg.rf.1e76f6ef8b382197d78bdce117c499b7.jpg,laptop,back panel damaging,"The back panel of the device is damaged, with a crack in the middle."
+data\Laptop-damage-detection-testing.v1i.coco\370082498_699386798909721_2604580787779817296_n_jpg.rf.46dbff7900994df580d64707ce241a2b.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\1400013265_png_jpg.rf.9b08e2c7bccaa0675ca583899fe264a7.jpg,laptop,cracked screen,"The laptop's screen is cracked, which is a defect in the device."
+data\Laptop-damage-detection-testing.v1i.coco\370082498_699386798909721_2604580787779817296_n_jpg.rf.b8388230a87fd3f63429f4390c7d0e39.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\phone_screen_defects\Datacluster Cracked Screen (55).jpg,phone,cracked screen,The phone has a cracked screen.
+data\Laptop-damage-detection-testing.v1i.coco\277da103c55e117b1773783056f78f4d_jpg.rf.2387c5e7c29d8204a4049f62f67118de.jpg,laptop,display flickering,"The image shows a computer screen with a mouse cursor on it. The cursor is located in the middle of the screen. The screen is displaying a blue background with a white mouse cursor. The cursor is blurry, which indicates that the screen might be flickering or experiencing some technical issues."
+data\Laptop-damage-detection-testing.v1i.coco\384537527_6505540196234790_6681892915337842260_n_jpg.rf.b051f17d866b0791eb11f398eab0396d.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\600014346_jpg.rf.4f75e55062104bd4d8a4a9ac0d95bd55.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\-223014448-3_jpeg.rf.b2f50c32d082319ffbdfc3f1fb1156be.jpg,laptop,screen scratch,The image shows a screen with a scratch on it.
+data\Laptop-damage-detection-testing.v1i.coco\489_jpg.rf.8394d68705a76cfa7187210955f62708.jpg,laptop,screen scratch,The screen of the laptop is scratched.
+data\Laptop-damage-detection-testing.v1i.coco\-_57_jpg.rf.4920b7265afcd4d5949ec7a273d1a327.jpg,laptop,battery swelling,"The image shows a laptop computer with its cover removed, revealing the internal components. The most noticeable defect is a swollen battery, which is a common issue in laptops. The swollen battery is located on the left side of the laptop, and it appears to be the main cause of the laptop's malfunction. This defect highlights the importance of regular maintenance"
+data\Laptop-damage-detection-testing.v1i.coco\600014301_jpg.rf.cd033ab40a8899f2e6b8a8b343c0db65.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153116_bottom_jpg.rf.408d7b0afd6ba048a3a6ce2472a19904.jpg,laptop,normal device,The image shows a laptop computer with a sticker on the back.
+data\Laptop-damage-detection-testing.v1i.coco\370293564_336508052207587_1766574074299814173_n_jpg.rf.c800cdc80642ae20147cdc0d29423330.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\385385665_653342356977998_6386218600707142699_n_jpg.rf.032f26acb35c9ef5457e50fdfcdcccdf.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240913123033_top_jpg.rf.2817750b148352bd177de5c5487013b0.jpg,laptop,normal device,The device is a laptop.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-18-47-18_jpg.rf.579adcb75bd565714498767b5b3ee244.jpg,laptop,charging port issue,The charging port is missing.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-18-27-22_jpg.rf.4c9f70977a46f22851d67dfca6b5b19e.jpg,laptop,back panel damaging,"The back panel of the device is damaged, with a visible crack."
+data\Laptop-damage-detection-testing.v1i.coco\370120669_876293337526455_6973027296132937885_n_jpg.rf.d478071a4ce2f6904bb041139f1fb469.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\phone_screen_defects\Datacluster Cracked Screen (231).jpg,phone,cracked screen,The phone is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\20240913123144_top_jpg.rf.35a886a401348397d8aaffdf67a1089b.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\45_jpg.rf.b20d0b34c6336253bb3a4f0daae2bcb5.jpg,laptop,back panel damaging,"The back panel of the laptop is damaged, with a cracked and broken appearance."
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-16-40-26_jpg.rf.230c8d0d0716f7ecaf10c0a81f79c035.jpg,laptop,display flickering,The display is flickering.
+data\Laptop-damage-detection-testing.v1i.coco\20240112_C223013901-2-_jpg.rf.ae8b85f3fff909b6c146fd941ef2eee9.jpg,laptop,screen scratch,The screen has a scratch on it.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-18-25-30_jpg.rf.82bff271f50ba66c3e94d62edcb63a11.jpg,laptop,charging port issue,The charging port is missing.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153035_bottom_jpg.rf.f5396f8cc576b771742302cb7fc15218.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\7100014439_jpg.rf.6d5a5c0166288a015ea2ad290afe157e.jpg,laptop,charging port issue,The charging port is broken.
+data\Laptop-damage-detection-testing.v1i.coco\370116014_265347126474136_4870941993653121884_n_jpg.rf.5c75079d33b58dce1fbc34aef8eca345.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\235038702_399331e28a8bacdb064ea5fc96f6de2f_800_jpg.rf.14cf22dc58b254d31c81c8e75438def9.jpg,laptop,cracked screen,The screen is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153011_bottom_jpg.rf.127ce3aadea88c8d36740f6162535d10.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-18-27-22_jpg.rf.02eb7ece9b085d4c590cf0474c8d523d.jpg,laptop,back panel damaging,The back panel of the computer is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240906135024_top_jpg.rf.ee3ef876c4903f1ab95df959e7662f35.jpg,laptop,normal device,The laptop is missing its screen.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153139_bottom_jpg.rf.a07cffb73033a37e15f432ba811746bb.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\370292903_1394141611482903_357238308047406006_n_jpg.rf.2a15aeaee4b42abd53e3d1472364eb64.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\100_jpeg_jpg.rf.66d2b6bde9e083607e8bdfd7b607942d.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\101_jpeg_jpg.rf.850e8aa57dd903c1d64dd1afe1b3bd67.jpg,laptop,keyboard malfunction,The keyboard is missing some keys.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-14-25-29_jpg.rf.4a067f8e236999dfdc58467fda88e54f.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_160212-1-_jpg.rf.6312d181f472a37ec7341de63e75c55b.jpg,laptop,keyboard malfunction,The keyboard is missing a key.
+data\phone_screen_defects\Datacluster Cracked Screen (230).jpg,phone,battery swelling,The phone is broken.
+data\phone_screen_defects\Datacluster Cracked Screen (249).jpg,phone,cracked screen,The phone is cracked and has a broken screen.
+data\Laptop-damage-detection-testing.v1i.coco\25_png_jpg.rf.89fa7781ac3b1d4cba91910ec363a4a2.jpg,laptop,screen scratch,The image shows a screen with a logo on it. The logo is surrounded by a screen scratch.
+data\Laptop-damage-detection-testing.v1i.coco\7100014415_jpg.rf.beb742051bc1b3420e3104bacb01a746.jpg,laptop,battery swelling,"The image shows a silver Sony laptop with a battery swelling issue. The swelling is visible on the laptop's surface, indicating a problem with the battery. This could potentially cause the laptop to overheat or malfunction."
+data\Laptop-damage-detection-testing.v1i.coco\370293564_336508052207587_1766574074299814173_n_jpg.rf.95aaa8b222cb654f3e5f4bd1b54253e9.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-14-40-15_jpg.rf.38e48c17a6a5e6ebe523c4ca5bf14650.jpg,laptop,battery swelling,"The image shows a close-up of a cell phone's battery compartment. The battery is swollen, indicating a potential issue with the phone's battery. This could be a sign of overheating, a malfunction, or a manufacturing defect. The swollen battery may affect the phone's performance or even cause damage to the device."
+data\Laptop-damage-detection-testing.v1i.coco\370196129_324140113630976_3836155530682924015_n_jpg.rf.665f9a1fe027b6b27827e8036c95b9dc.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\25_png_jpg.rf.8a73d13359623f9c5f31409ae1387b68.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\370196129_324140113630976_3836155530682924015_n_jpg.rf.d6c03855e67596754bb2de4784d169e3.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-17-59-10_jpg.rf.9becfc9851837d5d12a4b43607323729.jpg,laptop,back panel damaging,The back panel of the computer is damaged.
+data\phone_screen_defects\Datacluster Cracked Screen (293).jpg,phone,battery swelling,The phone is damaged due to a battery swelling.
+data\Laptop-damage-detection-testing.v1i.coco\20240906135427_top_jpg.rf.e1c2b27119813b34380c874df4456466.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\370262362_811861507610740_5903580242507620236_n_jpg.rf.9cb21b15d48ebab1d898681bdd435410.jpg,laptop,back panel damaging,"The back panel of the laptop is damaged, with a visible crack."
+data\Laptop-damage-detection-testing.v1i.coco\370228014_714353090587826_5061806500961603007_n_jpg.rf.9d2e1ba4bad1f037f1e839042a606913.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-14-54-03_jpg.rf.c5875e53017e9e5b42698e85db93f118.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_160225-1-_jpg.rf.4f0cb373b3a7d432cb17d0775f1f3331.jpg,laptop,keyboard malfunction,The keyboard is missing a key.
+data\Laptop-damage-detection-testing.v1i.coco\370120669_876293337526455_6973027296132937885_n_jpg.rf.2a5fa388a1222f80f91f99688d115504.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153128_bottom_jpg.rf.b54549faa3e4acfd137961efebc7f744.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\385498683_853287709530521_1400322349940815434_n_jpg.rf.a902cdd845a75917d2d43def66d4d491.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\386884550_856628329109809_4430599761854262884_n_jpg.rf.54a2b2d483759f5a579ddbf9a9e62fb5.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_160213_jpg.rf.c4078cef1473f73ab979dcdf0d930ac4.jpg,laptop,keyboard malfunction,The keyboard is missing a key.
+data\Laptop-damage-detection-testing.v1i.coco\110_jpeg_jpg.rf.993ad9038b05c39de9f17c0db3528b10.jpg,laptop,keyboard malfunction,"The keyboard is missing a few keys, including the letters ""a"", ""s"", and ""d""."
+data\Laptop-damage-detection-testing.v1i.coco\6100013168_jpg.rf.63ffe8bbdf3ee35e3bdcd5c798537cf6.jpg,laptop,keyboard malfunction,The keyboard is missing a key.
+data\Laptop-damage-detection-testing.v1i.coco\6500000197_jpg.rf.b9bd4c15f972c4fd6ea58a55c47725d2.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-16-27-01_jpg.rf.efbe087ca4e39f6bf5f6ab4ccdf61350.jpg,laptop,screen scratch,The image shows a computer screen with a scratch on it.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-17-57-27_jpg.rf.779bf52ec0380503b74a093bd5c00ec9.jpg,laptop,keyboard malfunction,The keyboard is not functioning properly.
+data\Laptop-damage-detection-testing.v1i.coco\360_jpg.rf.7ba3eb7b28208c0665282ce979e6322a.jpg,laptop,camera defect,The camera is blurry.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153152_bottom_jpg.rf.cc32080cfc0063fe967e4d64b2dba9a7.jpg,laptop,normal device,The device is a dell computer.
+data\phone_screen_defects\Datacluster Cracked Screen (28).jpg,phone,cracked screen,The phone is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_155343-0-_jpg.rf.ae8f344d8a021c87bf8026b5fbec2b8b.jpg,laptop,keyboard malfunction,The keyboard is missing a key.
+data\Laptop-damage-detection-testing.v1i.coco\20240906134724_top_jpg.rf.a8b7f4f9d7ccf2fd27d2a457a9699bc6.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240906142210_bottom_png_jpg.rf.e45b281dd43720912aec6f0995dde6af.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\600014336_jpg.rf.6487a3b5ca07dfe0c94ca131c07feb86.jpg,laptop,back panel damaging,"The back panel of the laptop is damaged, with a visible crack."
+data\Laptop-damage-detection-testing.v1i.coco\20240906135024_top_jpg.rf.40b35d398010cc296c94e025d7fae04e.jpg,laptop,normal device,The laptop is missing its keyboard.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_155359-1-_jpg.rf.5489b4997c5107d30a27085643b9ab2b.jpg,laptop,keyboard malfunction,The keyboard is broken.
+data\Laptop-damage-detection-testing.v1i.coco\370293564_336508052207587_1766574074299814173_n_jpg.rf.4ee316b7c88cccd1261c7e7358e51371.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\phone_screen_defects\Datacluster Cracked Screen (274).jpg,phone,cracked screen,The screen is cracked and has a black background.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-13-53-15_jpg.rf.eafb7c0f0b469eaac65549510b83701f.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\6100013157_jpg.rf.7b78a4e66f4c073d900e16070a20b807.jpg,laptop,keyboard malfunction,The keyboard is not functioning properly.
+data\Laptop-damage-detection-testing.v1i.coco\370059584_253807157654835_1991263673734689569_n_jpg.rf.e1c27c0b9833e9674aa966735151e47c.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\6700013785_jpg.rf.a321802d13d9126e700ad9210300710c.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240910152821_bottom_jpg.rf.7af3f866b6fecd0ae2282cef6d9f8ab8.jpg,laptop,back panel damaging,The back panel is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\600014363_jpg.rf.d41964a6355e93886ef804805895302e.jpg,laptop,back panel damaging,The back panel is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240910153213_bottom_jpg.rf.01e651b7d8501eae79b1d27ed827be58.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240910152812_bottom_jpg.rf.4ec343da58828420e5ef318c854acb88.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\phone_screen_defects\Datacluster Cracked Screen (264).jpg,phone,cracked screen,The screen is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\387542258_743922817769641_992740013421046499_n_jpg.rf.d0f1da9830b092873794232b6fb05c4c.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\800013154_jpg.rf.ca4c9b3cb239a885b3ca954b8b5ce68b.jpg,laptop,cracked screen,The screen of the laptop is cracked.
+data\Laptop-damage-detection-testing.v1i.coco\370197575_280865421487294_7982785502145262537_n_jpg.rf.7e7d1658e6b0262e29a09e0bae2ede31.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\2024-01-15-18-27-22_jpg.rf.83eeb451a845fe1f566a339bdfeb1279.jpg,laptop,screen scratch,The image shows a laptop with a screen scratch on the left side.
+data\Laptop-damage-detection-testing.v1i.coco\370228014_714353090587826_5061806500961603007_n_jpg.rf.e633684ff839cb4b20c459a67d628742.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\384537527_6505540196234790_6681892915337842260_n_jpg.rf.60eef71439fa512d51f237353a84be7c.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20220907_160212-1-_jpg.rf.42ac7894de47f3c036fd01f662f76ffa.jpg,laptop,back panel damaging,The back panel is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\387499955_638124278199813_8136866318153395863_n_jpg.rf.9bba9e782cab3bd258982cc21c4cf973.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240906135427_top_jpg.rf.d7342f7a16043f2aa83ee40e75426838.jpg,laptop,back panel damaging,The back panel is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\20240910152821_bottom_jpg.rf.844ce0ae820cf1be983335e95944dcda.jpg,laptop,back panel damaging,The back panel of the device is damaged.
+data\Laptop-damage-detection-testing.v1i.coco\370249993_347309641087068_309674323319470619_n_jpg.rf.6140c290f5b03082a169f360ccdde896.jpg,laptop,back panel damaging,The back panel of the laptop is damaged.

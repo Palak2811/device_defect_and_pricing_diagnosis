@@ -1,0 +1,59 @@
+{
+  "devices": [
+    {
+      "brand": "Apple",
+      "models": [
+        {"name": "iPhone 14 Pro", "original_price": 129900, "release_year": 2022},
+        {"name": "iPhone 13", "original_price": 79900, "release_year": 2021},
+        {"name": "iPhone 12", "original_price": 65900, "release_year": 2020},
+        {"name": "iPhone 11", "original_price": 54900, "release_year": 2019},
+        {"name": "iPhone SE", "original_price": 42500, "release_year": 2020},
+        {"name": "MacBook Air M2", "original_price": 119900, "release_year": 2022},
+        {"name": "MacBook Pro 14", "original_price": 194900, "release_year": 2021}
+      ]
+    },
+    {
+      "brand": "Samsung",
+      "models": [
+        {"name": "Galaxy S23 Ultra", "original_price": 124999, "release_year": 2023},
+        {"name": "Galaxy S22", "original_price": 72999, "release_year": 2022},
+        {"name": "Galaxy A54", "original_price": 38999, "release_year": 2023},
+        {"name": "Galaxy Z Fold 4", "original_price": 159999, "release_year": 2022},
+        {"name": "Galaxy Note 20", "original_price": 79999, "release_year": 2020},
+        {"name": "Galaxy Book Pro", "original_price": 89990, "release_year": 2021},
+        {"name": "Galaxy Book2 360", "original_price": 109990, "release_year": 2022}
+      ]
+    },
+    {
+      "brand": "OnePlus",
+      "models": [
+        {"name": "OnePlus 11", "original_price": 56999, "release_year": 2023},
+        {"name": "OnePlus 10 Pro", "original_price": 66999, "release_year": 2022},
+        {"name": "OnePlus Nord 3", "original_price": 33999, "release_year": 2023}
+      ]
+    },
+    {
+      "brand": "Dell",
+      "models": [
+        {"name": "XPS 13", "original_price": 99990, "release_year": 2022},
+        {"name": "Inspiron 15", "original_price": 54990, "release_year": 2021},
+        {"name": "Latitude 5420", "original_price": 75990, "release_year": 2021}
+      ]
+    },
+    {
+      "brand": "HP",
+      "models": [
+        {"name": "Pavilion 15", "original_price": 58990, "release_year": 2022},
+        {"name": "Envy 13", "original_price": 84990, "release_year": 2021},
+        {"name": "EliteBook 840", "original_price": 95990, "release_year": 2022}
+      ]
+    },
+    {
+      "brand": "Lenovo",
+      "models": [
+        {"name": "ThinkPad X1", "original_price": 124990, "release_year": 2022},
+        {"name": "IdeaPad Slim 3", "original_price": 42990, "release_year": 2021}
+      ]
+    }
+  ]
+}
