@@ -2,7 +2,7 @@ from domain_validator import DomainValidator
 from description_extractor import DescriptionExtractor
 from defect_matcher import DefectMatcher
 from condition_grader import ConditionGrader
-from price_predictor import PricePredictor
+from aws_cust.predictor.price_predictor import PricePredictor
 import time
 import json
 

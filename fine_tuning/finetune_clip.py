@@ -8,7 +8,7 @@ import numpy as np
 import os
 from datetime import datetime
 
-from finetune_dataset import create_dataloaders
+from aws_cust.fine_tuning.finetune_dataset import create_dataloaders
 
 
 class CLIPFineTuner:

@@ -3,16 +3,17 @@ from PIL import Image, ImageFile
 import sys
 import os
 import json
+from huggingface_hub import hf_hub_download
 from io import BytesIO
 from datetime import datetime
-
+HF_USERNAME = "palakmathur"
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'src'))
 
 from domain_validator import DomainValidator
 from description_extractor import DescriptionExtractor
 from defect_matcher import DefectMatcher
 from condition_grader import ConditionGrader
-from price_predictor import PricePredictor
+from predictor.price_predictor import PricePredictor
 
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 
@@ -192,21 +193,20 @@ def main():
         
         st.subheader(" Device Information (for price prediction)")
         
-        with st.expander("Enter device details:-", expanded=False):
-            col_a, col_b = st.columns(2)
+        col_a, col_b = st.columns(2)
+        
+        with col_a:
+            brand = st.selectbox(
+                "Brand",
+                ["Apple", "Samsung", "OnePlus", "Dell", "HP", "Lenovo", "Other"]
+            )
             
-            with col_a:
-                brand = st.selectbox(
-                    "Brand",
-                    ["Apple", "Samsung", "OnePlus", "Dell", "HP", "Lenovo", "Other"]
-                )
-                
-                device_type = st.selectbox(
-                    "Device Type",
-                    ["Phone", "Laptop"]
-                )
-            
-            model_options = {
+            device_type = st.selectbox(
+                "Device Type",
+                ["Phone", "Laptop"]
+            )
+        
+        model_options = {
                 "Apple": {
                     "Phone": ["iPhone 15 Pro Max", "iPhone 15 Pro", "iPhone 15", "iPhone 14 Pro Max", "iPhone 14 Pro", "iPhone 14", "iPhone 13 Pro Max", "iPhone 13 Pro", "iPhone 13", "iPhone 12 Pro Max", "iPhone 12 Pro", "iPhone 12", "iPhone 11 Pro Max", "iPhone 11 Pro", "iPhone 11", "iPhone XS Max", "iPhone XS", "iPhone XR", "iPhone X", "iPhone 8 Plus", "iPhone 8"],
                     "Laptop": ["MacBook Pro 16\" M3 Max", "MacBook Pro 14\" M3 Pro", "MacBook Pro 16\" M2 Max", "MacBook Pro 14\" M2 Pro", "MacBook Air M3", "MacBook Air M2", "MacBook Air M1", "MacBook Pro 13\" M1"]
@@ -235,20 +235,20 @@ def main():
                     "Phone": ["Other Model"],
                     "Laptop": ["Other Model"]
                 }
-            }
+        }
+        
+        available_models = model_options.get(brand, {}).get(device_type, ["Other Model"])
+        
+        with col_b:
+            if available_models:
+                model = st.selectbox("Model", available_models)
+            else:
+                st.warning(f"No {device_type} models available for {brand}")
+                model = st.text_input("Model (enter manually)", "")
             
-            available_models = model_options.get(brand, {}).get(device_type, ["Other Model"])
-            
-            with col_b:
-                if available_models:
-                    model = st.selectbox("Model", available_models)
-                else:
-                    st.warning(f"No {device_type} models available for {brand}")
-                    model = st.text_input("Model (enter manually)", "")
-                
-                original_price = st.number_input("Original Price (₹)", min_value=0, value=79900, step=1000)
-            
-            age_months = st.slider("Age (months)", 0, 60, 18, help="How old is the device?")
+            original_price = st.number_input("Original Price (₹)", min_value=0, value=79900, step=1000)
+        
+        age_months = st.slider("Age (months)", 0, 60, 18, help="How old is the device?")
     
     with col2:
         st.header("Diagnosis Results :- ")

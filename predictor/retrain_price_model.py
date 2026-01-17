@@ -1,5 +1,5 @@
 
-from price_predictor import train_model, test_predictions
+from aws_cust.predictor.price_predictor import train_model, test_predictions
 import sys
 import os
 
