@@ -9,7 +9,7 @@ A production-grade, multi-modal AI system that automatically validates device im
 
 ## 🚩 Problem
 
-Manual inspection of used devices (phones/laptops) for resale is:
+Manual inspection of used consumer devices for resale is:
 
 - ❌ **Time-intensive:** 15–20 minutes per device
 - ❌ **Expensive:** Requires trained inspectors
@@ -18,12 +18,12 @@ Manual inspection of used devices (phones/laptops) for resale is:
 
 ## ✅ Solution
 
-This system fully automates device inspection using Computer Vision + NLP + Machine Learning.
+This system fully automates device inspection using Computer Vision , NLP , Machine Learning.
 
 Users can:
 
 1. **Upload** a single device image
-2. Optionally provide a text description (not required)
+2. Optionally provide a text description (the system works fully without text).
 3. Instantly receive:
     - ✔️ Image validity check (device vs invalid image)
     - ✔️ Detected physical defect
@@ -41,7 +41,7 @@ User Image (+ Optional Text)
         ↓
 Image Domain Validation (CLIP)
         ↓
-Text Processing (Optional)
+Optional Text Processing (BERT-based)
         ↓
 Defect Detection (Fine-Tuned CLIP)
         ↓
@@ -57,7 +57,7 @@ User-Readable Report + PDF
 ## 🔍 Key Features
 
 - ✔️ **Image Validity Detection:** Automatically verifies whether the uploaded image is a valid device and rejects invalid inputs (people, animals, random objects), preventing garbage inference and improving system reliability.
-- ✔️ **Optional Text Input:** The system works even without user text. If provided, the description improves defect detection accuracy. Designed for real users who may skip descriptions.
+- ✔️ **Optional Text Processing (BERT-based):** The system works even without user text. If provided, the description improves defect detection accuracy. Designed for real users who may skip descriptions.
 - ✔️ **Multi-Modal AI (Vision + Language):** Combines image understanding with semantic text understanding to improve robustness in ambiguous defect cases.
 - ✔️ **Multi-User Safe Deployment:** Session-isolated uploads, temporary file isolation, cached model loading, and safe concurrent inference.
 
@@ -71,7 +71,7 @@ Uses CLIP image–text similarity to confirm whether the image contains a smartp
 
 **Why it matters:** Prevents incorrect inference and protects downstream models.
 
-### 2️⃣ Description Processing (Optional)
+### 2️⃣ Optional Description Processing (BERT-based NLP)
 
 If a description is provided, the system extracts keywords (e.g., "crack," "screen," "battery") and affected components to create a search query that helps the model focus on the relevant parts of the image. If no text is provided, the system falls back to pure vision-based inference.
 
@@ -102,12 +102,10 @@ An ML regression model (XGBoost-based) that inputs the device brand & model, ori
 
 All trained models are stored and versioned on Hugging Face Hub, not inside the repository.
 
-- **Fine-Tuned CLIP (Defect Detection):** [https://huggingface.co/palakmathur/device-defect-clip](https://huggingface.co/palakmathur/device-defect-clip)
-- **Price Prediction Model:** [https://huggingface.co/palakmathur/device-defect-pricing](https://huggingface.co/palakmathur/device-defect-pricing)
+- **Fine-Tuned CLIP (Defect Detection):** [[https://huggingface.co/palakmathur/device-defect-clip](https://huggingface.co/palakmathur/device-defect-clip)](https://huggingface.co/palakmathur/device-defect-clip)
+- **Price Prediction Model:** [[https://huggingface.co/palakmathur/device-defect-pricing](https://huggingface.co/palakmathur/device-defect-pricing)](https://huggingface.co/palakmathur/device-defect-pricing)
 
-✔️ Lightweight GitHub repo
 ✔️ Scalable deployment
-✔️ Clean CI/CD-friendly design
 
 ---
 
@@ -118,14 +116,14 @@ All trained models are stored and versioned on Hugging Face Hub, not inside the 
 - **Inference:** CPU (optimized, cached)
 - **Concurrency:** Supported
 
-🔗 **Live Application:** [https://huggingface.co/spaces/palakmathur/device_price_detector](https.huggingface.co/spaces/palakmathur/device_price_detector)
+🔗 **Live Application:** [https://palakmathur-device-price-detector.hf.space](https://palakmathur-device-price-detector.hf.space)
 
 ---
 
 ## 🧩 Tech Stack
 
-- **Computer Vision:** CLIP (fine-tuned), PIL
-- **NLP:** Text processing
+- **Computer Vision:** CLIP (Fine-Tuned), PIL
+- **NLP:** BERT-based NLP
 - **Machine Learning:** XGBoost regression
 - **Application:** Streamlit, Hugging Face Hub
 - **Engineering:** Cached model loading, session-state isolation, temporary file safety, robust logging & error handling
@@ -162,11 +160,14 @@ Building a stateful, multi-user machine learning application requires careful en
 ## 🧠 Key Technical Highlights
 
 - ✔️ **Production-Aware ML System Design:** Built as a robust, end-to-end application, not just a model in a notebook.
+- ✔️ **Stateless Inference Design:** Each request is processed independently, enabling safe concurrent usage and future horizontal scaling.
 - ✔️ **Multi-Modal AI (Vision + Language):** Fuses visual and textual data to improve accuracy and handle ambiguous cases, a common real-world scenario.
 - ✔️ **Transfer Learning & Fine-Tuning:** Demonstrates efficient model adaptation by fine-tuning a large pre-trained model (CLIP) on a specific domain, achieving a **+54%** accuracy improvement.
 - ✔️ **Zero-Shot Inference:** The system can identify new defect types by simply adding a text description, showcasing a flexible and scalable classification approach without the need for retraining.
 - ✔️ **Scalable & Concurrent Web Application:** Engineered the Streamlit application to handle multiple users safely through session-state isolation, cached model loading, and stateless processing, addressing common challenges in deploying interactive ML systems.
 - ✔️ **Business Impact:** Directly solves a real-world business problem by reducing manual inspection time from ~15 minutes to ~8 seconds, increasing consistency, and providing immediate value.
+- ✔️ Designed with real-world user behavior in mind (optional inputs, invalid uploads, concurrent usage)
+
 
 ---
 
