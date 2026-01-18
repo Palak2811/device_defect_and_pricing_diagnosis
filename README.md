@@ -145,20 +145,28 @@ All trained models are stored and versioned on Hugging Face Hub, not inside the 
 
 ---
 
-## 🧠 What This Project Demonstrates
+## 🛠️ Engineering Challenges & Solutions
 
-- ✔️ Production-aware ML system design
-- ✔️ Multi-modal AI (vision + language)
-- ✔️ Transfer learning & fine-tuning
-- ✔️ Zero-shot inference
-- ✔️ Multi-user concurrency handling
-- ✔️ Real-world business impact
+Building a stateful, multi-user machine learning application requires careful engineering beyond the model itself. Here are some of the key challenges and how they were solved:
+
+| Challenge                               | Solution                                                                                                                                                                                                  | Why It Matters                                                                                                                              |
+| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Model Loading Latency**               | Used Streamlit's `@st.cache_resource` to load all models (CLIP, XGBoost) into memory once on startup.                                                                                                       | Reduces the cold-start time for each user session from minutes to seconds, ensuring a responsive user experience.                           |
+| **Multi-User State Management**         | Designed the diagnosis pipeline to be stateless. Each user's request is processed independently without relying on or modifying global state.                                                                | Prevents data leakage between sessions and ensures that concurrent users do not interfere with each other's results.                        |
+| **Temporary File Collisions**           | Handled file uploads by processing them in-memory or saving with session-specific temporary names, ensuring they are deleted immediately after use within a `try...finally` block.                  | Prevents race conditions where one user's upload could be overwritten by another's, a critical issue in web applications with shared filesystems. |
+| **Frontend/Backend Synchronization** | Leveraged Streamlit's reactive execution model to manage UI updates. The entire script reruns on user interaction, ensuring the UI always reflects the current state of a single user's session data. | Simplifies state management and eliminates the need for complex callbacks or frontend-backend APIs, while still providing an interactive feel. |
+| **Scalable Inference**                  | The application is containerized and deployed on Hugging Face Spaces, which manages the underlying infrastructure. The stateless design ensures it can be scaled horizontally if needed.                      | Creates a robust deployment that can handle growing traffic without a complete re-architecture.                                             |
 
 ---
 
-## 🗣️ FAANG-Style One-Liner
+## 🧠 Key Technical Highlights
 
-Designed and deployed a multi-modal AI system using fine-tuned CLIP, BERT-based NLP, and ML regression to automatically validate device images, detect physical defects, grade condition, and predict resale price in a scalable multi-user web application.
+- ✔️ **Production-Aware ML System Design:** Built as a robust, end-to-end application, not just a model in a notebook.
+- ✔️ **Multi-Modal AI (Vision + Language):** Fuses visual and textual data to improve accuracy and handle ambiguous cases, a common real-world scenario.
+- ✔️ **Transfer Learning & Fine-Tuning:** Demonstrates efficient model adaptation by fine-tuning a large pre-trained model (CLIP) on a specific domain, achieving a **+54%** accuracy improvement.
+- ✔️ **Zero-Shot Inference:** The system can identify new defect types by simply adding a text description, showcasing a flexible and scalable classification approach without the need for retraining.
+- ✔️ **Scalable & Concurrent Web Application:** Engineered the Streamlit application to handle multiple users safely through session-state isolation, cached model loading, and stateless processing, addressing common challenges in deploying interactive ML systems.
+- ✔️ **Business Impact:** Directly solves a real-world business problem by reducing manual inspection time from ~15 minutes to ~8 seconds, increasing consistency, and providing immediate value.
 
 ---
 
