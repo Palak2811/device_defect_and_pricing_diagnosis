@@ -102,8 +102,8 @@ An ML regression model (XGBoost-based) that inputs the device brand & model, ori
 
 All trained models are stored and versioned on Hugging Face Hub, not inside the repository.
 
-- **Fine-Tuned CLIP (Defect Detection):** [[https://huggingface.co/palakmathur/device-defect-clip](https://huggingface.co/palakmathur/device-defect-clip)](https://huggingface.co/palakmathur/device-defect-clip)
-- **Price Prediction Model:** [[https://huggingface.co/palakmathur/device-defect-pricing](https://huggingface.co/palakmathur/device-defect-pricing)](https://huggingface.co/palakmathur/device-defect-pricing)
+- **Fine-Tuned CLIP (Defect Detection):** [[https://huggingface.co/palakmathur/device-defect-clip](https://huggingface.co/palakmathur/device-defect-clip)]
+- **Price Prediction Model:** [[https://huggingface.co/palakmathur/device-defect-pricing](https://huggingface.co/palakmathur/device-defect-pricing)]
 
 ✔️ Scalable deployment
 
